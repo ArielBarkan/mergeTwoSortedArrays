@@ -109,7 +109,10 @@
         <pre><?php print_r($final_array); ?></pre>
     </div>
 </div>
+<footer>
+     <a href="https://github.com/ArielBarkan/mergeTwoSortedArrays/blob/master/mergeTwoSortedArrays.php" target="_blank">Link to source code</a>
 
+</footer>
 
 </body>
 
