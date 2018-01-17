@@ -1,6 +1,6 @@
-# mergeTwoSortedArrays
+# mergeTwoSortedArrays PHP
 
-Merging two ramdom & sorted arrays using pointers
+Merging two random & sorted arrays using pointers
 
 <br><br>
 
